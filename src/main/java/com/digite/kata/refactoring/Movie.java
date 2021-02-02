@@ -1,4 +1,4 @@
-package com.agilityroots.musings.refactoring;
+package com.digite.kata.refactoring;
 
 public class Movie {
     public static final int CHILDRENS = 2;

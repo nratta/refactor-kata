@@ -1,4 +1,4 @@
-package com.agilityroots.musings.refactoring;
+package com.digite.kata.refactoring;
 
 import java.util.Enumeration;
 import java.util.Vector;
